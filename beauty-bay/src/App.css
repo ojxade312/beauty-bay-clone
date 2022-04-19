@@ -1,0 +1,8 @@
+.subHeader {
+  display: flex;
+}
+
+.Searchbar {
+  display: flex;
+  justify-content: center;
+}
